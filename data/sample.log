@@ -1,0 +1,15 @@
+Sep 7 12:10:31 server sshd[4102]: Failed password for root from 192.168.1.50 port 51244 ssh2
+Sep 7 12:10:34 server sshd[4105]: Failed password for invalid user admin from 192.168.1.50 port 51251 ssh2
+Sep 7 12:11:02 server sshd[4112]: Accepted publickey for sasan from 192.168.1.20 port 43110 ssh2
+Sep 7 12:12:15 server sudo[4201]: sasan : TTY=pts/0 ; COMMAND=/usr/bin/dnf update
+Sep 7 12:13:47 server sshd[4251]: Failed password for root from 10.0.0.88 port 39122 ssh2
+Sep 8 10:00:01 server sshd[4101]: Accepted publickey for sasan from 192.168.1.20 port 43110 ssh2
+Sep 8 10:01:12 server sshd[4102]: Failed password for root from 192.168.1.50 port 51244 ssh2
+Sep 8 10:01:18 server sshd[4103]: Failed password for root from 192.168.1.50 port 51245 ssh2
+Sep 8 10:02:03 server sshd[4104]: Failed password for invalid user admin from 10.0.0.88 port 39122 ssh2
+Sep 8 10:02:08 server sshd[4105]: Failed password for invalid user test from 10.0.0.88 port 39123 ssh2
+Sep 8 10:02:14 server sshd[4106]: Failed password for root from 10.0.0.88 port 39124 ssh2
+Sep 8 10:02:20 server sshd[4107]: Failed password for invalid user oracle from 10.0.0.88 port 39125 ssh2
+Sep 8 10:02:27 server sshd[4108]: Failed password for invalid user guest from 10.0.0.88 port 39126 ssh2
+Sep 8 10:04:10 server sshd[4109]: Accepted password for sasan from 192.168.1.20 port 43111 ssh2
+Sep 8 10:05:15 server sudo[4201]: sasan : TTY=pts/0 ; COMMAND=/usr/bin/dnf update
